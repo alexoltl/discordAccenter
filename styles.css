@@ -44,6 +44,29 @@ html {
   --brand-experiment-85a: rgba(165, 93, 229, 0.85);
   --brand-experiment-90a: rgba(165, 93, 229, 0.9);
   --brand-experiment-95a: rgba(165, 93, 229, 0.95);
+  --text-brand: #a55de5;
+  --background-accent: #a55de5;
+  --brand-500: #a55de5;
+  --brand-560: #8d31de;
+  --button-danger-background-active: #933ce0;
+  --button-outline-brand-border: #a55de5;
+  --button-outline-brand-background-hover: #9f52e3;
+  --button-outline-brand-border-hover: #9f52e3;
+  --button-outline-brand-background-active: #9947e1;
+  --button-outline-brand-border-active: #9f52e3;
+  --scrollbar-thin-thumb: #a55de5;
+  --scrollbar-auto-scrollbar-color-thumb: #a55de5;
+  --control-brand-foreground: #a55de5;
+  --control-brand-foreground-new: #a55de5;
+  --mention-foreground: #a55de5;
+  --mention-background: rgba(165, 93, 229, 0.3);
+  --background-message-highlight: rgba(165, 93, 229, 0.1);
+  --background-message-highlight-hover: rgba(165, 93, 229, 0.08);
+  --focus-primary: #a55de5;
+}
+
+::selection {
+  background-color: rgba(165, 93, 229, 0.6);
 }
 
 /*# sourceMappingURL=styles.css.map */
