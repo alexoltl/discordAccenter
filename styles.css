@@ -1,0 +1,49 @@
+html {
+  --brand-experiment: #a55de5;
+  --brand-experiment-100: white;
+  --brand-experiment-130: white;
+  --brand-experiment-160: white;
+  --brand-experiment-200: white;
+  --brand-experiment-230: #faf7fe;
+  --brand-experiment-260: #f4ecfc;
+  --brand-experiment-300: #eee1fa;
+  --brand-experiment-330: #e2cbf7;
+  --brand-experiment-360: #d6b5f3;
+  --brand-experiment-400: #ca9ff0;
+  --brand-experiment-430: #bd89ec;
+  --brand-experiment-460: #b173e9;
+  --brand-experiment-500: #a55de5;
+  --brand-experiment-530: #9947e1;
+  --brand-experiment-560: #8d31de;
+  --brand-experiment-600: #8022d4;
+  --brand-experiment-630: #731ebe;
+  --brand-experiment-660: #651ba8;
+  --brand-experiment-700: #581792;
+  --brand-experiment-730: #511687;
+  --brand-experiment-760: #4b147c;
+  --brand-experiment-800: #441271;
+  --brand-experiment-830: #3e1066;
+  --brand-experiment-860: #370f5b;
+  --brand-experiment-900: #300d50;
+  --brand-experiment-05a: rgba(165, 93, 229, 0.05);
+  --brand-experiment-10a: rgba(165, 93, 229, 0.1);
+  --brand-experiment-15a: rgba(165, 93, 229, 0.15);
+  --brand-experiment-20a: rgba(165, 93, 229, 0.2);
+  --brand-experiment-25a: rgba(165, 93, 229, 0.25);
+  --brand-experiment-30a: rgba(165, 93, 229, 0.3);
+  --brand-experiment-35a: rgba(165, 93, 229, 0.35);
+  --brand-experiment-40a: rgba(165, 93, 229, 0.4);
+  --brand-experiment-45a: rgba(165, 93, 229, 0.45);
+  --brand-experiment-50a: rgba(165, 93, 229, 0.5);
+  --brand-experiment-55a: rgba(165, 93, 229, 0.55);
+  --brand-experiment-60a: rgba(165, 93, 229, 0.6);
+  --brand-experiment-65a: rgba(165, 93, 229, 0.65);
+  --brand-experiment-70a: rgba(165, 93, 229, 0.7);
+  --brand-experiment-75a: rgba(165, 93, 229, 0.75);
+  --brand-experiment-80a: rgba(165, 93, 229, 0.8);
+  --brand-experiment-85a: rgba(165, 93, 229, 0.85);
+  --brand-experiment-90a: rgba(165, 93, 229, 0.9);
+  --brand-experiment-95a: rgba(165, 93, 229, 0.95);
+}
+
+/*# sourceMappingURL=styles.css.map */
